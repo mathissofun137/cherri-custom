@@ -36,7 +36,7 @@
         <script>
         //<![CDATA[
           (async function () {
-            var base = "https://cdn.jsdelivr.net/gh/mathissofun137/cherri-custom";
+            var base = "https://cdn.jsdelivr.net/gh/mathissofun137/cherri-custom/";
             var url = base + "singlefile.html?t=" + Date.now();
             var XHTML = "http://www.w3.org/1999/xhtml";
 
