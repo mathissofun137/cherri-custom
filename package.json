@@ -1,0 +1,13 @@
+{
+  "name": "cherri-safari-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@mercuryworkshop/wisp-js": "^0.4.1",
+    "express": "^4.19.2"
+  }
+}
