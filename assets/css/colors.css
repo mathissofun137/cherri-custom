@@ -1,0 +1,20 @@
+:root {
+    color-scheme: light;
+    --bg: #f5f4f6;
+    --bg-2: #eeecef;
+    --bg-3: #e5e2e6;
+    --bg-4: #d9d3d9;
+    --bg-5: #e9e6ea;
+    --border: #51465024;
+    --border-2: #51465020;
+    --border-3: #51465018;
+    --border-4: #51465012;
+    --text: #625a62;
+    --bright-text: #29252a;
+    --accent: #d65a83;
+    --accent-2: #ad6681;
+}
+
+#reset-theme {
+    display: none !important;
+}
